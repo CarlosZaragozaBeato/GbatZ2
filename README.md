@@ -2,4 +2,4 @@
 Config files for my GitHub profile.
 
 
-<img src="https://postimg.cc/9RYBmn7W">
+<img href="https://postimg.cc/9RYBmn7W"/>
